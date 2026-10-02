@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker",
+  "description": "Student operating system for classes, timetable, attendance, tasks, study sessions, focus lab, grades, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

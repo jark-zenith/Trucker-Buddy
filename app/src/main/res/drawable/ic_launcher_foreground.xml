@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- P mark background tile -->
+    <path
+        android:fillColor="#0D2A4B"
+        android:strokeColor="#356AA5"
+        android:strokeWidth="2"
+        android:pathData="M32,24h44a10,10 0 0,1 10,10v40a10,10 0 0,1 -10,10h-44a10,10 0 0,1 -10,-10v-40a10,10 0 0,1 10,-10z" />
+    <!-- Letter P -->
+    <path
+        android:fillColor="#F7FBFF"
+        android:pathData="M43,36h14c6.6,0 11,4.4 11,10.5c0,6.1 -4.4,10.5 -11,10.5h-7v15h-7v-36z M50,42v9h7c3,0 5,-1.8 5,-4.5c0,-2.7 -2,-4.5 -5,-4.5h-7z" />
+    <!-- Red status dot -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M78,28a4.5,4.5 0 1,0 0.1,0z" />
+</vector>
